@@ -39,7 +39,7 @@ A high-performance, terminal-based application designed to track and analyze fam
 ├── families.csv      # Database file for Family aggregations
 ├── expenses.csv      # Database file for Expense transaction logs
 └── README.md         # Project Documentation
-
+```
 ## ⚙️ How to Run (Cloning & Setup)
 
 1.  **Clone the Repository:**
