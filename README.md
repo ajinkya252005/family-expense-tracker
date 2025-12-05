@@ -93,3 +93,6 @@ Once the application is running, you can perform the following operations via th
 * **Course:** TE AI & DS, PVG's COET, Pune
 * **Email:** ajinkyamoharir2005@gmail.com
 * **Project Type:** DSA / Low-Level Design
+
+
+## NOTE: The Data in CSV files is taken from AI for initial purposes and testing, I got bored and just took it from AI
